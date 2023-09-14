@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+#Data
+/data/face-images
+/data/img_align_celeba
+/data/celeba-dataset.zip
