@@ -401,3 +401,6 @@ FodyWeavers.xsd
 /data/face-images
 /data/img_align_celeba
 /data/celeba-dataset.zip
+
+#Models
+/models/*
